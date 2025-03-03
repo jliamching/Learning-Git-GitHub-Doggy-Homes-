@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 #Dogs.JSON File
-Docs/dogs.json
+docs/dogs.json
